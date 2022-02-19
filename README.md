@@ -1,2 +1,2 @@
-# text-adventure
+# Text Adventure ⚔️
 Text adventure game
